@@ -1,12 +1,12 @@
-# Mortgage Nerd web sitesi tasarımı
+# Clone web design project 
+## [Project link](https://iremsayar.github.io/MortgageNerd-clone-website/)
+## This website design was used with permission. 
+## Owner: [Dribbble](https://dribbble.com/shots/6226645-Landing-Page-UI-Design-with-Web-Development-for-Mortgage-Nerd)
 
-##  [proje linki](https://iremsayar.github.io/MortgageNerd-clone-website/)
+## I developed this template using HTML, CSS and Bootstrap. 
 
-Bootstrap kullanarak [Mortgage Nerd](https://www.mortgagenerd.ca/) sitesinin klon tasarımını yaptığım  proje.
 
-# Tasarım linki: [Dribbble](https://dribbble.com/shots/6226645-Landing-Page-UI-Design-with-Web-Development-for-Mortgage-Nerd)
-
-Tasarıma ait görseller:
+### images of my design:
 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/39015459/144714758-7329c038-1752-4818-bbdd-eee696590250.PNG">
 <img width="958" alt="2" src="https://user-images.githubusercontent.com/39015459/144714763-d85f27d8-c363-433b-b171-c3092df8ad06.PNG">
